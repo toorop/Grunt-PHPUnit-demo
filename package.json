@@ -1,0 +1,20 @@
+{
+    "name": "Grunt-PHPUnit-Demo",
+    "version": "0.0.1",
+    "description": "Grunt & PHPunit test runner",
+    "keywords": ["grunt","phpunit","demo","tutorial"],
+    "homepage": "http",
+    "authors": [
+        {
+            "name": "Stéphane Depierrepont aka Toorop",
+            "email": "toorop@toorop.fr",
+            "homepage": "http://blog.toorop.fr"
+        }
+    ],
+    "license": "Apache 2",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-phpunit": "~0.2.1",
+        "grunt-contrib-watch": "~0.3.1"
+    }
+}
